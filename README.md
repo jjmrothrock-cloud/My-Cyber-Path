@@ -12,7 +12,7 @@ One of the initial documents in this repo covers a scenario exploring root acces
 
 Another document here dives into an interesting quirk I encountered with the Scribbr AI detector and how certain configuration paths can trigger unexpected behaviors. This write-up documents the steps I took and the solutions I found.
 
-##Why This Repo?
+## Why This Repo?
 
 I created My-Cyber-Path to serve as a living journal of my cybersecurity learning adventure. By making it public, I hope it can be a resource for others who are on similar paths or just curious about some of the hands-on quirks and discoveries that come up in cybersecurity work.
 
